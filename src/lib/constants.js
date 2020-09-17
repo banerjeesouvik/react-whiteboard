@@ -1,0 +1,9 @@
+export const PEN = 'pen'
+export const HIGHLIGHTER = 'highlighter'
+export const ERASER = 'eraser'
+export const THIN = 1
+export const MEDIUM = 3
+export const THICK = 5
+export const BLACK = '#000000'
+export const YELLOW = '#FFFF00'
+export const BASE_ERASER_SIZE = 15
