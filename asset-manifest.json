@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/banerjeesouvik/react-whiteboard/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/banerjeesouvik/react-whiteboard/static/js/main.839ad7e4.chunk.js",
-    "main.js.map": "/banerjeesouvik/react-whiteboard/static/js/main.839ad7e4.chunk.js.map",
-    "runtime-main.js": "/banerjeesouvik/react-whiteboard/static/js/runtime-main.e5fdb1cb.js",
-    "runtime-main.js.map": "/banerjeesouvik/react-whiteboard/static/js/runtime-main.e5fdb1cb.js.map",
-    "static/js/2.9fbba452.chunk.js": "/banerjeesouvik/react-whiteboard/static/js/2.9fbba452.chunk.js",
-    "static/js/2.9fbba452.chunk.js.map": "/banerjeesouvik/react-whiteboard/static/js/2.9fbba452.chunk.js.map",
-    "index.html": "/banerjeesouvik/react-whiteboard/index.html",
-    "precache-manifest.1c216396335716e1d09569f161691434.js": "/banerjeesouvik/react-whiteboard/precache-manifest.1c216396335716e1d09569f161691434.js",
-    "service-worker.js": "/banerjeesouvik/react-whiteboard/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/banerjeesouvik/react-whiteboard/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.9fbba452.chunk.js.LICENSE.txt": "/banerjeesouvik/react-whiteboard/static/js/2.9fbba452.chunk.js.LICENSE.txt",
-    "static/media/eraser.svg": "/banerjeesouvik/react-whiteboard/static/media/eraser.aaf752f0.svg",
-    "static/media/highlighter.svg": "/banerjeesouvik/react-whiteboard/static/media/highlighter.1b602999.svg",
-    "static/media/pen.svg": "/banerjeesouvik/react-whiteboard/static/media/pen.133d5714.svg"
+    "main.css": "/react-whiteboard/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-whiteboard/static/js/main.839ad7e4.chunk.js",
+    "main.js.map": "/react-whiteboard/static/js/main.839ad7e4.chunk.js.map",
+    "runtime-main.js": "/react-whiteboard/static/js/runtime-main.98842b35.js",
+    "runtime-main.js.map": "/react-whiteboard/static/js/runtime-main.98842b35.js.map",
+    "static/js/2.5b3802fe.chunk.js": "/react-whiteboard/static/js/2.5b3802fe.chunk.js",
+    "static/js/2.5b3802fe.chunk.js.map": "/react-whiteboard/static/js/2.5b3802fe.chunk.js.map",
+    "index.html": "/react-whiteboard/index.html",
+    "precache-manifest.246074ceef29f3a065852755ccc9b012.js": "/react-whiteboard/precache-manifest.246074ceef29f3a065852755ccc9b012.js",
+    "service-worker.js": "/react-whiteboard/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-whiteboard/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5b3802fe.chunk.js.LICENSE.txt": "/react-whiteboard/static/js/2.5b3802fe.chunk.js.LICENSE.txt",
+    "static/media/eraser.svg": "/react-whiteboard/static/media/eraser.aaf752f0.svg",
+    "static/media/highlighter.svg": "/react-whiteboard/static/media/highlighter.1b602999.svg",
+    "static/media/pen.svg": "/react-whiteboard/static/media/pen.133d5714.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5fdb1cb.js",
-    "static/js/2.9fbba452.chunk.js",
+    "static/js/runtime-main.98842b35.js",
+    "static/js/2.5b3802fe.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
     "static/js/main.839ad7e4.chunk.js"
   ]
