@@ -1,5 +1,5 @@
 ## React Whiteboard
-A simple virtual whiteboard app built using React
+A simple virtual whiteboard app built using React and canvas
 
 ### Problem: Create a drawing board app, which contains a plain html canvas to let user draw and write on it.
 
